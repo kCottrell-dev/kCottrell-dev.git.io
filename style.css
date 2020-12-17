@@ -1,0 +1,15 @@
+body {
+  background-image: url("snow.jpg");
+}
+
+.card-title {
+  color: red;
+}
+
+.card {
+  background-image: url("snow2.jpg");
+  color: green;
+  padding-bottom: 85px;
+  text-align: center;
+  font-size: 20px;
+}
